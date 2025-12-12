@@ -1,0 +1,109 @@
+{
+  "0": {
+    "n": "Default",
+    "on": true,
+    "bri": 128,
+    "transition": 7,
+    "mainseg": 0,
+    "seg": [{"id": 0, "start": 0, "stop": 152, "grp": 1, "spc": 0, "of": 0, "on": true, "frz": false, "bri": 255, "cct": 127, "col": [[255, 160, 80, 100], [0, 0, 0, 0], [0, 0, 0, 0]], "fx": 0, "sx": 128, "ix": 128, "pal": 0}]
+  },
+  "1": {
+    "n": "Christmas Ember",
+    "on": true,
+    "bri": 180,
+    "transition": 40,
+    "mainseg": 0,
+    "seg": [{"id": 0, "start": 0, "stop": 152, "grp": 1, "spc": 0, "of": 0, "on": true, "frz": false, "bri": 255, "cct": 127, "col": [[180, 30, 20, 60], [255, 100, 20, 40], [120, 10, 40, 0]], "fx": 46, "sx": 20, "ix": 200, "pal": 35}]
+  },
+  "2": {
+    "n": "Mulled Wine",
+    "on": true,
+    "bri": 170,
+    "transition": 40,
+    "mainseg": 0,
+    "seg": [{"id": 0, "start": 0, "stop": 152, "grp": 1, "spc": 0, "of": 0, "on": true, "frz": false, "bri": 255, "cct": 127, "col": [[140, 20, 60, 30], [80, 10, 80, 0], [200, 60, 30, 50]], "fx": 69, "sx": 15, "ix": 220, "pal": 8}]
+  },
+  "3": {
+    "n": "Evergreen & Gold",
+    "on": true,
+    "bri": 175,
+    "transition": 40,
+    "mainseg": 0,
+    "seg": [{"id": 0, "start": 0, "stop": 152, "grp": 1, "spc": 0, "of": 0, "on": true, "frz": false, "bri": 255, "cct": 127, "col": [[20, 100, 40, 80], [200, 150, 50, 60], [15, 60, 30, 0]], "fx": 46, "sx": 18, "ix": 200, "pal": 0}]
+  },
+  "4": {
+    "n": "Champagne Glow",
+    "on": true,
+    "bri": 160,
+    "transition": 40,
+    "mainseg": 0,
+    "seg": [{"id": 0, "start": 0, "stop": 152, "grp": 1, "spc": 0, "of": 0, "on": true, "frz": false, "bri": 255, "cct": 127, "col": [[255, 200, 140, 180], [255, 180, 100, 120], [220, 160, 100, 80]], "fx": 74, "sx": 30, "ix": 180, "pal": 0}]
+  },
+  "5": {
+    "n": "Winter Jewels",
+    "on": true,
+    "bri": 180,
+    "transition": 40,
+    "mainseg": 0,
+    "seg": [{"id": 0, "start": 0, "stop": 152, "grp": 1, "spc": 0, "of": 0, "on": true, "frz": false, "bri": 255, "cct": 127, "col": [[60, 20, 120, 0], [20, 80, 100, 40], [150, 30, 60, 20]], "fx": 38, "sx": 25, "ix": 200, "pal": 50}]
+  },
+  "6": {
+    "n": "Candlelight Eve",
+    "on": true,
+    "bri": 150,
+    "transition": 40,
+    "mainseg": 0,
+    "seg": [{"id": 0, "start": 0, "stop": 152, "grp": 1, "spc": 0, "of": 0, "on": true, "frz": false, "bri": 255, "cct": 127, "col": [[255, 150, 60, 200], [255, 100, 30, 150], [200, 80, 20, 100]], "fx": 88, "sx": 60, "ix": 180, "pal": 0}]
+  },
+  "7": {
+    "n": "Cranberry Frost",
+    "on": true,
+    "bri": 175,
+    "transition": 40,
+    "mainseg": 0,
+    "seg": [{"id": 0, "start": 0, "stop": 152, "grp": 1, "spc": 0, "of": 0, "on": true, "frz": false, "bri": 255, "cct": 127, "col": [[180, 30, 70, 100], [100, 20, 60, 60], [220, 80, 100, 80]], "fx": 46, "sx": 22, "ix": 210, "pal": 0}]
+  },
+  "8": {
+    "n": "Midnight Forest",
+    "on": true,
+    "bri": 165,
+    "transition": 40,
+    "mainseg": 0,
+    "seg": [{"id": 0, "start": 0, "stop": 152, "grp": 1, "spc": 0, "of": 0, "on": true, "frz": false, "bri": 255, "cct": 127, "col": [[10, 60, 40, 40], [30, 100, 60, 60], [5, 40, 50, 20]], "fx": 38, "sx": 20, "ix": 230, "pal": 0}]
+  },
+  "9": {
+    "n": "Spiced Cider",
+    "on": true,
+    "bri": 175,
+    "transition": 40,
+    "mainseg": 0,
+    "seg": [{"id": 0, "start": 0, "stop": 152, "grp": 1, "spc": 0, "of": 0, "on": true, "frz": false, "bri": 255, "cct": 127, "col": [[220, 100, 30, 80], [180, 60, 20, 60], [255, 140, 50, 100]], "fx": 69, "sx": 18, "ix": 200, "pal": 0}]
+  },
+  "10": {
+    "n": "Royal Velvet",
+    "on": true,
+    "bri": 170,
+    "transition": 40,
+    "mainseg": 0,
+    "seg": [{"id": 0, "start": 0, "stop": 152, "grp": 1, "spc": 0, "of": 0, "on": true, "frz": false, "bri": 255, "cct": 127, "col": [[100, 20, 80, 20], [60, 10, 100, 0], [160, 40, 90, 40]], "fx": 46, "sx": 16, "ix": 220, "pal": 0}]
+  },
+  "11": {
+    "n": "Gilded Pine",
+    "on": true,
+    "bri": 170,
+    "transition": 40,
+    "mainseg": 0,
+    "seg": [{"id": 0, "start": 0, "stop": 152, "grp": 1, "spc": 0, "of": 0, "on": true, "frz": false, "bri": 255, "cct": 127, "col": [[30, 80, 30, 60], [200, 160, 60, 100], [20, 60, 25, 40]], "fx": 74, "sx": 35, "ix": 170, "pal": 0}]
+  },
+  "250": {
+    "playlist": {
+      "ps": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "dur": [120, 150, 120, 180, 120, 140, 120, 130, 120, 140, 150],
+      "transition": 40,
+      "repeat": 0,
+      "end": 0
+    },
+    "on": true,
+    "n": "Elegant Christmas"
+  }
+}
